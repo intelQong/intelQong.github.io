@@ -19,7 +19,7 @@ layout: default
 
 
 # Study Materials
-[Here](https://t.ly/cAVS0)
+[Here](https://intelqong.github.io/)
 
 #### Header 4
 
